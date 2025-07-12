@@ -1,0 +1,6 @@
+model_name,price,cost,other_cost,shipping_fee,commission_rate,refund_rate,instant_refund_rate,ad_deal_price,ad_enabled
+iPhone15-128G,5999.0,4500.0,50.0,15.0,3.0,8.0,3.0,25.0,True
+华为P60-256G,4999.0,3800.0,45.0,12.0,3.5,10.0,5.0,20.0,True
+小米13-128G,3999.0,3000.0,40.0,10.0,3.0,12.0,6.0,15.0,True
+OPPO-Find-X6,3599.0,2800.0,35.0,10.0,4.0,15.0,8.0,12.0,True
+vivo-X90s,3299.0,2500.0,30.0,8.0,3.5,18.0,10.0,10.0,True

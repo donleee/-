@@ -1,0 +1,4 @@
+model_name,price,cost,other_cost,shipping_fee,commission_rate,sales_volume,return_quantity,deal_orders,net_deal_orders,ad_deal_price,ad_enabled
+SKU-001,100,50,5,10,3.0,100,10,95,85,2.0,True
+SKU-002,120,60,6,12,4.0,150,20,140,120,2.5,True
+SKU-003,80,40,4,8,2.5,80,5,75,70,1.5,False
